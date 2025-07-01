@@ -29,6 +29,7 @@ A Node.js + TypeScript microservice for consolidating customer contact data via 
 ```
 
 ### Example Response:
+```json
 {
   "contact": {
     "primaryContactId": 1,
@@ -37,6 +38,7 @@ A Node.js + TypeScript microservice for consolidating customer contact data via 
     "secondaryContactIds": [2]
   }
 }
+```
 
 Tech Stack
 | Tool          | Purpose                  |
