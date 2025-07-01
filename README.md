@@ -33,7 +33,7 @@ A Node.js + TypeScript microservice for consolidating customer contact data via 
 {
   "contact": {
     "primaryContactId": 1,
-    "emails": ["marty@hillvalley.edu", "doc@hillvalley.edu"],
+    "emails": ["marty@hillvalley.edu"],
     "phoneNumbers": ["1234567890"],
     "secondaryContactIds": [2]
   }
